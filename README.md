@@ -3,4 +3,4 @@ Udemy-Python İle Web Kazıma Web Scraping Eğitimi
 
 Eğitmen: Alp Can
 
-![Görüntüleme](Sertifika/webscraping.png)
+![Görüntüleme](Sertifika/webscraping.jpg)
